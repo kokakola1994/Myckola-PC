@@ -3,12 +3,17 @@
 
 #include "pch.h"
 #include <iostream>
+#include "Quadrangle.h"
+#include "Rectangle.h"
+#include "Diamond.h"
 
 using namespace std;
 
 int main()
 {
    
+	system("pause");
+	return 0;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
